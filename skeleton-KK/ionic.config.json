@@ -1,0 +1,7 @@
+{
+  "name": "skeleton-KK",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
